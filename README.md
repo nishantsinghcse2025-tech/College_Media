@@ -423,4 +423,4 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
   width="100%"
-/>
+/
