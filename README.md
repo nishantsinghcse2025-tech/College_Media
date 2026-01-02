@@ -412,3 +412,15 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 > "Community-driven development creates amazing projects. Together, we build better software." 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+---
+
+> "Community-driven development creates amazing projects.  
+> Together, we build better software."
+
+🚀 **Happy Coding!**
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+  width="100%"
+/>
