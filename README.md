@@ -415,4 +415,15 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 ---
 
 ### 🙌 New Contributor
+
 - Added minor documentation improvements to enhance clarity and readability.
+
+---
+
+> "Community-driven development creates amazing projects.  
+
+> Together, we build better software."
+
+🚀 **Happy Coding!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%" />
