@@ -393,7 +393,8 @@ If you found this project helpful:
 📢 **Share** it with your college community - Spread the word!  
 💬 **Provide Feedback** - Help us improve through suggestions  
 🤝 **Contribute Code** - Submit PRs for features and fixes  
-
+## Contributors
+- Nishant Chaudhary
 ### Recognition
 
 Special thanks to all [contributors](https://github.com/abhishekkumar177/College_Media/graphs/contributors) who have helped shape this project!
