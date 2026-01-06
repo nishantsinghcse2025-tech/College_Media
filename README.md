@@ -427,5 +427,5 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 
 🚀 **Happy Coding!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%" />
+
 
