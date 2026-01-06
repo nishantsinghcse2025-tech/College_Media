@@ -20,6 +20,9 @@
 </div>
 
 ---
+## Improvements
+- Improved documentation
+- Better readability
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
@@ -427,3 +430,40 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 🚀 **Happy Coding!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%" />
+# 🎓 College Media Platform
+
+College Media is a web-based platform designed to manage and showcase college-related media content such as events, notices, galleries, announcements, and student activities.
+
+---
+
+## 📌 Project Overview
+
+This project helps colleges and institutions:
+- Share important updates
+- Display event photos and videos
+- Manage announcements digitally
+- Improve communication between students and administration
+
+---
+
+## 🚀 Features
+
+- 📢 College Announcements
+- 🗓️ Event Management
+- 🖼️ Image & Video Gallery
+- 👨‍🎓 Student Activity Showcase
+- 🔐 Secure Admin Panel
+- 📱 Mobile-Friendly UI
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP / Node.js (as applicable)  
+- **Database:** MySQL  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📂 Project Structure
