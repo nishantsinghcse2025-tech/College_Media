@@ -1,84 +1,62 @@
-
-
-# 👋 Hi, I'm Nishant Kumar  
-
-🎓 **B.Tech CSE – 1st Year**  
-🏫 *Meerut Institute of Engineering and Technology, Meerut*  
+<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
+<h3 align="center">B.Tech CSE Student | Open Source Enthusiast | Future Software Engineer</h3>
 
 ---
 
 ## 🚀 About Me  
-
-Hello! I'm **Nishant Kumar**, a passionate Computer Science Engineering student who loves **coding, technology, and building things that solve real-world problems**.  
-I am currently in my **first year of B.Tech (CSE)** and actively learning modern technologies, programming languages, and development tools.  
-
-I enjoy exploring **open-source**, improving my problem-solving skills, and continuously upgrading myself to become a professional software developer.
+I am a **Computer Science Engineering student** at **Meerut Institute of Engineering and Technology, Meerut**.  
+I am passionate about **coding, open source, and building real-world applications**.  
+Currently learning **Data Structures, Algorithms, Python, C, and Web Development**.
 
 ---
 
-## 🧠 What I'm Learning  
-
-- Data Structures & Algorithms  
-- C Programming  
-- Python Programming  
-- Git & GitHub  
-- Web Development Basics  
+## 🧠 Currently Working On  
+- Improving my **DSA & problem solving**  
+- Contributing to **Open Source (EWoC)**  
+- Learning **Git & GitHub professionally**  
+- Building mini projects  
 
 ---
 
-## 💻 Technical Skills  
+## 🛠️ Tech Stack  
 
-### Programming Languages  
+### Languages  
 - C  
 - Python  
 
-### Web Technologies  
+### Web  
 - HTML  
 
-### Tools & Platforms  
+### Tools  
 - Git  
 - GitHub  
 - VS Code  
 
 ---
 
-## 📂 My Work & Projects  
-
-Here are some things I am working on or have worked on:
-
-- 🔹 **Open Source Contributions (EWoC)**  
-- 🔹 Practice coding repositories  
-- 🔹 Mini projects for learning  
-- 🔹 College assignments and experiments  
-
-More exciting projects coming soon 🚀  
+## 📂 Open Source  
+- Active contributor in **EWoC (Extended Winter of Code)**  
+- Working on collaborative repositories  
+- Learning real-world Git workflow  
 
 ---
 
 ## 🎯 Goals  
-
-- Become a **skilled software developer**  
-- Contribute to **open source projects**  
-- Build **real-world applications**  
-- Get placed in a **top tech company**  
-
----
-
-## 📈 GitHub Stats  
-
-I actively push my code here to track my learning and growth.  
-Feel free to explore my repositories and see my progress.
+- Become a **skilled Software Engineer**  
+- Contribute to **big open-source projects**  
+- Get internship in **top tech companies**  
+- Build impactful applications  
 
 ---
 
-## 🤝 Let's Connect  
-
-📧 **Email:** Nishant.singh.cse.2025@miet.ac.in  
-
-If you want to collaborate, discuss projects, or just talk about tech — feel free to reach out!
+## 📊 GitHub Stats  
+*(Stats will appear automatically once profile grows)*  
 
 ---
 
-⭐ *If you like my work, please give a star to my repositories. It motivates me to do better!*
+## 🤝 Connect With Me  
+📧 **Nishant.singh.cse.2025@miet.ac.in**
 
+---
 
+⭐ *Feel free to explore my repositories and give a star if you like my work!*
