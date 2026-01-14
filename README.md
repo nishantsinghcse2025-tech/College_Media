@@ -19,36 +19,7 @@
 
 </div>
 
----
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
-## 📱 Overview
-
-**College Media** is a cutting-edge frontend application designed specifically for college communities. It replicates the core user experience of popular social media platforms with a fresh, gradient-themed UI optimized for visual media sharing, real-time interactions, and seamless user engagement.
-
-Whether you're sharing campus moments, connecting with classmates, or building your college network, College Media provides an intuitive and visually appealing platform for digital expression.
-
-### ✨ Key Highlights
-
-- 🎯 **Purpose-Built** for college communities and student networks
-- ⚡ **Lightning Fast** performance with Vite optimization (instant HMR)
-- 🎨 **Beautiful UI/UX** with modern design patterns and smooth animations
-- 📱 **Fully Responsive** - works perfectly on desktop, tablet, and mobile
-- 🔄 **Real-time Interactions** with instant feedback and engagement metrics
-- 🌐 **Modern Frontend Stack** - React 19 with ES6+ standards
-- ♿ **Accessibility First** - WCAG compliant components
-- 🔐 **Developer Friendly** - Clean, well-documented codebase
-
----
-
-## 🚀 Features
-
-- ✅ **User Profiles** - Customizable student profiles with bio and profile pictures
-- ✅ **Feed & Posts** - Create, edit, and share posts with rich text formatting
-- ✅ **Likes & Comments** - Real-time engagement tracking and interactions
-- ✅ **Notifications** - Instant alerts for likes, comments, and follows
-- ✅ **Search Functionality** - Quickly find users and posts across the platform
+** - Quickly find users and posts across the platform
 - ✅ **Dark/Light Mode** - Eye-friendly theme options for different environments
 - ✅ **Mobile Responsive** - Optimized layout for all device sizes
 - ✅ **Social Sharing** - Share posts across platforms with one click
@@ -627,8 +598,6 @@ npm run build
 
 For more help, check the [Issues](https://github.com/abhishekkumar177/College_Media/issues) page or create a new issue.
 
----
-
 ## 💬 Connect with the Team
 
 - **Maintainer:** [@janavipandole](https://github.com/janavipandole)
@@ -654,8 +623,6 @@ If you found this project helpful:
 
 Special thanks to all [contributors](https://github.com/abhishekkumar177/College_Media/graphs/contributors) who have helped shape this project!
 
----
-
 ## 📄 Additional Resources
 
 - [React Documentation](https://react.dev)
@@ -663,12 +630,10 @@ Special thanks to all [contributors](https://github.com/abhishekkumar177/College
 - [JavaScript ES6+ Guide](https://github.com/getify/You-Dont-Know-JS)
 - [Web Development Best Practices](https://developer.mozilla.org/)
 
----
-
-> "Community-driven development creates amazing projects. Together, we build better software." 🚀
+ "Community-driven development creates amazing projects. Together, we build better software." 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
----
+
 
 
 
